@@ -3,5 +3,5 @@
 Изучил как работает state, хуки, prop drilling и работу REACT. Продолжаю изучать
 
 ## Запуск
-npm instal
-npm start
+### npm instal
+### npm start
