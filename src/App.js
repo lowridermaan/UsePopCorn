@@ -371,7 +371,7 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
               <em>{movie.description}</em>
             </p>
             <p>Актеры: {actors}</p>
-            <p>Режисер: {director}</p>
+            <p>Режиссер: {director}</p>
           </section>
         </>
       ) : (
