@@ -3,5 +3,6 @@
 Изучил как работает state, хуки, prop drilling и работу REACT. Продолжаю изучать
 
 ## Запуск
+### рабочая версия App.js
 ### npm instal
 ### npm start
